@@ -1,6 +1,6 @@
 # Welcome to LifeStream!
 
-Hi! I'm Neelabh, developer of **LifeStream**. It is an online **blood bank** where you can request for blood and become a donor. Through this website you can get all the details of the donor and can contact him through email, phone, **inbuilt chat**. The Donor Will Be Notified Through An Email After Your Request. The Donor Can Also Delete The Data From The Website After Donation Otherwise It'll Be Deleted After 7 days of Request.
+Hi! I'm Neelabh Raktim Parsar, developer of **LifeStream**. It is an online **blood bank** where you can request for blood and become a donor. Through this website you can get all the details of the donor and can contact him through email, phone, **inbuilt chat**. The Donor Will Be Notified Through An Email After Your Request. The Donor Can Also Delete The Data From The Website After Donation Otherwise It'll Be Deleted After 7 days of Request.
 
 
 
